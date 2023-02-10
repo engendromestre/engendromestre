@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paulo Oliveira
 - 👀 I'm interested in learn Dev Full Stack
 - 🌱 I’m currently learning Laravel PHP web application framework
-- 📫 How to reach me: prbo0417@gmail.com
+- 📫 How to reach me: engendro.mestre@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prbo0417&show_icons=true&theme=tokyonight)
 
@@ -21,7 +21,9 @@
 </div>
 
 ### Database
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="60"/>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="60"/>
 <!---
 engendromestre/engendromestre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
