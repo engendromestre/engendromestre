@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Laravel PHP web application framework
 - 📫 How to reach me: engendro.mestre@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prbo0417&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prbo0417&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contact
 <a href="https://www.linkedin.com/in/paulo-oliveira-2b53b338/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="100" width="110" />
