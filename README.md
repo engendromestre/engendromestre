@@ -4,7 +4,7 @@
 - 📫 How to reach me: engendro.mestre@gmail.com
 
 ### Contact
-<a href="https://www.linkedin.com/in/paulo-oliveira-2b53b338/">
+<a href="https://www.linkedin.com/in/paulo-oliveira-844142342/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="100" width="110" />
 </a>
 
